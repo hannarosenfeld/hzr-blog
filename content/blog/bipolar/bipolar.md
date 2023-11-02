@@ -54,7 +54,7 @@ Two modes of perception ..
 - exteroception (external things happening -- hearing seeing outside of us)
 - interoception (how fast is my heart beating, how happy am i, how tired etc)
 
-In people suffering from bipolar over time (especially in second third decade of having bipolar) seem to have progressively dimished levels of interroception (don't notice how fast they are talking, that they are not sleeping etc).
+In people suffering from bipolar over time (especially in second to third decade of having bipolar) seem to have progressively dimished levels of interroception (don't notice how fast they are talking, that they are not sleeping etc).
 
 This athrophy of neural cirucuits for interroception is starting to emmerge as one of the defining neural characteristics or underpinnings of bipolar.
 
