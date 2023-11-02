@@ -44,9 +44,26 @@ Percentage wise, people with BDII are about 50% in adepressed state (major depre
 Therefore, Bipolar II can really fall under the radar.
 
 
-## Heredibility
-Heredibility vs Genetic Contrubution
+## Heredibility 
+The heredibilty of Bipolar Disorder is 85% !
 
+## Neural Circuits of Bipolar Disorder, Interoception, Hyper- vs. Hypoactivity
+There are two main neural circuits present both in bipolar/non-bipolar people.
+Both circuits do the same thing -- yet in bipolar there seems to be an athrophy/removal of neural connection over time where they become very poor at regestering their own internal state in particular their emotional/somatic states.
+Two modes of perception ..
+- exteroception (external things happening -- hearing seeing outside of us)
+- interoception (how fast is my heart beating, how happy am i, how tired etc)
+
+In people suffering from bipolar over time (especially in second third decade of having bipolar) seem to have progressively dimished levels of interroception (don't notice how fast they are talking, that they are not sleeping etc).
+
+This athrophy of neural cirucuits for interroception is starting to emmerge as one of the defining neural characteristics or underpinnings of bipolar.
+
+## Lithium
+Lithium can protect against some of the neurotoxic effects of neurocircuits being very active.
+The reality is people with bipolar very likely have a hyperactivity that ins increasead activity of circuits within their brain early in the expression of the dissease -- this hyperactivity leads to a toxicity (partially death) of certain elements of the neural circuits that are responsible of interroception.
+
+
+## Neural States & Mania, Parietal Lobe & Limbic System
 
 
 
@@ -54,5 +71,4 @@ Heredibility vs Genetic Contrubution
 
 ##### Reference:
 - [The Science & Treatment of Bipolar Disorder | Huberman Lab Podcast #82](https://www.youtube.com/watch?v=m_OazsImOiI&ab_channel=AndrewHuberman)
-
-
+- [The Science & Treatment of Bipolar Disorder, shownotes](https://www.hubermanlab.com/episode/the-science-and-treatment-of-bipolar-disorder)
